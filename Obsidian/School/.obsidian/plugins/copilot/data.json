@@ -318,7 +318,7 @@
   "inlineEditCommands": [],
   "projectList": [],
   "lastDismissedVersion": null,
-  "lastShownStartupVersion": null,
+  "lastShownStartupVersion": "4.0.9",
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
@@ -461,6 +461,15 @@
       },
       "configuredModelId": "13b5598e-6714-4d0d-9fe4-2935b1432674",
       "configuredAt": 1789537618976
+    },
+    {
+      "providerId": "1a702f10-608f-4a95-8de1-6707b0e11044",
+      "info": {
+        "id": "opencode/union-alpha",
+        "displayName": "OpenCode Zen/Union Alpha Free"
+      },
+      "configuredModelId": "36289359-dfad-4a60-9484-9069e4616b67",
+      "configuredAt": 1789626041316
     }
   ],
   "backends": {
