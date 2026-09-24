@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSAI/18.09.2026.md",
+                "file": "POS/Development Steps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18.09.2026"
+              "title": "Development Steps"
             }
           },
           {
@@ -257,8 +257,12 @@
   },
   "active": "9e017ea9921c40f4",
   "lastOpenFiles": [
-    "DSAI/Neuron.md",
+    "POS/Spring-Rest.md",
     "DSAI/18.09.2026.md",
+    "DSAI/vt_plot.png",
+    "DSAI/vt_plot.svg",
+    "copilot/copilot-conversations/agent__mach_mir_eine_funktion_hier_hinein_die_v(t)_=_t²@20260918_122253.md",
+    "DSAI/Neuron.md",
     "DSAI/16.09.2026.md",
     "SYP/17.09.2026.md",
     "SYP/Powerpoint Vorlage Informatik Allgemein.potx",
@@ -266,7 +270,6 @@
     "BWM/17.09.2026.md",
     "SYP",
     "Deutsch/17.09.2026.md",
-    "POS/Spring-Rest.md",
     "POS/Development Steps.md",
     "Deutsch",
     "BWM/CS_Esila biocare_Wachstum mit Anleihen finanzieren_46091.pdf",
@@ -290,8 +293,6 @@
     "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
     "copilot/skills/obsidian-markdown/references/EMBEDS.md",
     "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
-    "copilot/skills/openartifacts-publish/SKILL.md",
-    "copilot/skills/openartifacts-publish/themes/research-memo.md",
-    "copilot/skills/copilot-fetch-x/SKILL.md"
+    "copilot/skills/openartifacts-publish/SKILL.md"
   ]
 }
